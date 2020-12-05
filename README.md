@@ -5,7 +5,7 @@ Ryanair Flight Booking System using Java
 Cucumber + Junit + Selenium
 Hybrid Framework (BDD approach)
 
-Important Important: In case a test fail due to incorrect email address, please enter a new valid email address and password in all feature files. The reason behind that is sometimes the application blocks the user due to providing invalid credit card details. 
+Important Information: In case a test fail due to incorrect email address, please enter a new valid email address and password in all feature files. The reason behind that is sometimes the application blocks the user due to providing invalid credit card details. 
 
 
 Step 1: Setup & Configuration
