@@ -1,0 +1,139 @@
+2020-12-05 02:22:19,596 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 02:22:28,453 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 02:22:28,569 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 02:22:28,571 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 02:22:28,664 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 02:22:29,512 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 02:22:29,607 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 02:22:29,608 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 02:22:32,732 - RyanairBooking -INFO - ******  Providing flight details ******
+2020-12-05 02:22:40,238 - RyanairBooking -INFO - ******  Clicking on Search button ******
+2020-12-05 02:22:48,324 - RyanairBooking -INFO - ******  Providing First name and Last name ******
+2020-12-05 02:22:53,933 - RyanairBooking -INFO - ******  Selecting cabin bag details ******
+2020-12-05 02:23:11,940 - RyanairBooking -INFO - ******  Clicking on Checkout button ******
+2020-12-05 02:23:23,974 - RyanairBooking -INFO - ******  Providing card details ******
+2020-12-05 02:23:25,690 - RyanairBooking -INFO - ******  Providing billing address details ******
+2020-12-05 02:25:56,115 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 02:26:03,081 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 02:26:03,216 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 02:26:03,218 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 02:26:03,307 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 02:26:04,322 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 02:26:04,450 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 02:26:04,451 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 02:32:09,456 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 02:32:17,196 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 02:32:17,333 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 02:32:17,334 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 02:32:17,476 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 02:32:18,676 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 02:32:19,017 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 02:32:19,020 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 02:32:22,180 - RyanairBooking -INFO - ******  Providing flight details ******
+2020-12-05 02:32:31,158 - RyanairBooking -INFO - ******  Clicking on Search button ******
+2020-12-05 02:32:42,018 - RyanairBooking -INFO - ******  Providing First name and Last name ******
+2020-12-05 02:32:49,014 - RyanairBooking -INFO - ******  Selecting cabin bag details ******
+2020-12-05 02:34:24,892 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 02:34:34,217 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 02:34:34,390 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 02:34:34,397 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 02:34:34,645 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 02:34:35,903 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 02:34:35,997 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 02:34:35,998 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 02:34:40,118 - RyanairBooking -INFO - ******  Providing flight details ******
+2020-12-05 02:34:47,971 - RyanairBooking -INFO - ******  Clicking on Search button ******
+2020-12-05 02:34:59,293 - RyanairBooking -INFO - ******  Providing First name and Last name ******
+2020-12-05 02:35:08,732 - RyanairBooking -INFO - ******  Selecting cabin bag details ******
+2020-12-05 02:35:24,782 - RyanairBooking -INFO - ******  Clicking on Checkout button ******
+2020-12-05 02:35:30,866 - RyanairBooking -INFO - ******  Providing card details ******
+2020-12-05 02:35:32,302 - RyanairBooking -INFO - ******  Providing billing address details ******
+2020-12-05 02:35:49,090 - RyanairBooking -INFO - Error message verified. All test cases are passed
+2020-12-05 02:36:38,548 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 02:36:49,951 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 02:36:50,118 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 02:36:50,121 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 02:36:50,291 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 02:36:51,542 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 02:36:51,822 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 02:36:51,823 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 02:36:55,023 - RyanairBooking -INFO - ******  Providing flight details ******
+2020-12-05 02:37:05,375 - RyanairBooking -INFO - ******  Clicking on Search button ******
+2020-12-05 02:37:14,019 - RyanairBooking -INFO - ******  Providing First name and Last name ******
+2020-12-05 02:37:22,359 - RyanairBooking -INFO - ******  Selecting cabin bag details ******
+2020-12-05 02:37:48,090 - RyanairBooking -INFO - ******  Clicking on Checkout button ******
+2020-12-05 02:37:56,495 - RyanairBooking -INFO - ******  Providing card details ******
+2020-12-05 02:37:57,551 - RyanairBooking -INFO - ******  Providing billing address details ******
+2020-12-05 02:39:42,040 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 02:39:50,442 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 02:39:50,592 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 02:39:50,596 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 02:39:50,707 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 02:39:51,942 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 02:39:52,034 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 02:39:52,035 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 03:28:47,109 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 03:28:55,252 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 03:28:55,401 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 03:28:55,403 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 03:28:55,607 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 03:28:56,802 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 03:28:56,987 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 03:28:56,991 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 03:31:03,391 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 03:31:16,087 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 03:31:16,254 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 03:31:16,256 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 03:31:16,412 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 03:31:17,427 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 03:31:17,688 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 03:31:17,691 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 03:31:22,811 - RyanairBooking -INFO - ******  Providing flight details ******
+2020-12-05 03:31:30,745 - RyanairBooking -INFO - ******  Clicking on Search button ******
+2020-12-05 03:31:39,735 - RyanairBooking -INFO - ******  Providing First name and Last name ******
+2020-12-05 03:31:47,675 - RyanairBooking -INFO - ******  Selecting cabin bag details ******
+2020-12-05 03:32:04,373 - RyanairBooking -INFO - ******  Clicking on Checkout button ******
+2020-12-05 03:32:10,490 - RyanairBooking -INFO - ******  Providing card details ******
+2020-12-05 03:32:12,271 - RyanairBooking -INFO - ******  Providing billing address details ******
+2020-12-05 03:32:29,197 - RyanairBooking -INFO - Error message verified. All test cases are passed
+2020-12-05 14:36:46,953 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 14:36:53,438 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 14:36:53,600 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 14:36:53,602 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 14:36:53,722 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 14:36:54,805 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 14:36:54,885 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 14:36:54,888 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 14:37:00,002 - RyanairBooking -INFO - ******  Providing flight details ******
+2020-12-05 14:37:07,079 - RyanairBooking -INFO - ******  Clicking on Search button ******
+2020-12-05 14:37:12,000 - RyanairBooking -INFO - ******  Providing First name and Last name ******
+2020-12-05 14:37:20,449 - RyanairBooking -INFO - ******  Selecting cabin bag details ******
+2020-12-05 14:37:31,956 - RyanairBooking -INFO - ******  Clicking on Checkout button ******
+2020-12-05 14:37:35,405 - RyanairBooking -INFO - ******  Providing card details ******
+2020-12-05 14:37:36,890 - RyanairBooking -INFO - ******  Providing billing address details ******
+2020-12-05 14:37:53,253 - RyanairBooking -INFO - Error message verified. All test cases are passed
+2020-12-05 14:45:35,035 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 14:45:41,388 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 14:45:41,535 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 14:45:41,538 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 14:45:41,777 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 14:45:42,804 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 14:45:42,892 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 14:45:42,894 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 14:45:52,241 - RyanairBooking -INFO - ******  Providing flight details ******
+2020-12-05 15:19:13,640 - RyanairBooking -INFO - ******  Launching Browser ******
+2020-12-05 15:19:20,169 - RyanairBooking -INFO - ******  Opening URL ******
+2020-12-05 15:19:20,411 - RyanairBooking -INFO - ******  Cookie link is clicked ******
+2020-12-05 15:19:20,415 - RyanairBooking -INFO - ******  Clicking Login Link ******
+2020-12-05 15:19:20,764 - RyanairBooking -INFO - ******  Providing login details ******
+2020-12-05 15:19:22,003 - RyanairBooking -INFO - ******  Email id and Password entered ******
+2020-12-05 15:19:22,161 - RyanairBooking -INFO - ******  Clicking on Login button ******
+2020-12-05 15:19:22,163 - RyanairBooking -INFO - ******  Successfully Login ******
+2020-12-05 15:19:27,304 - RyanairBooking -INFO - ******  Providing flight details ******
+2020-12-05 15:19:34,657 - RyanairBooking -INFO - ******  Clicking on Search button ******
+2020-12-05 15:19:40,565 - RyanairBooking -INFO - ******  Providing First name and Last name ******
+2020-12-05 15:19:47,028 - RyanairBooking -INFO - ******  Selecting cabin bag details ******
+2020-12-05 15:19:58,688 - RyanairBooking -INFO - ******  Clicking on Checkout button ******
+2020-12-05 15:20:02,302 - RyanairBooking -INFO - ******  Providing card details ******
+2020-12-05 15:20:03,547 - RyanairBooking -INFO - ******  Providing billing address details ******
+2020-12-05 15:20:20,435 - RyanairBooking -INFO - Error message verified. All test cases are passed
