@@ -5,6 +5,6 @@ Feature: Login into the application
    When User opens URL "https://www.ryanair.com/ie/en"
    And User accepts cookies
    And User clicks on Log in link
-   And User enters Email as "TestRyanair12@gmail.com" and Password as "Test@123"
+   And User enters Email as "TestRyanair14@gmail.com" and Password as "Test@123"
    Then Click on Login button
    
